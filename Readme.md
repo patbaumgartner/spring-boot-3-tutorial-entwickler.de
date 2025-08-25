@@ -1,4 +1,4 @@
-# Spring Boot 3 Tutorial
+# Spring Boot 3 - entwickler.de Tutorial
 
 ![Spring Boot Tutorial](Spring-Boot-3-Tutorial.png)
 
