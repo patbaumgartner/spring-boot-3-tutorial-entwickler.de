@@ -1,0 +1,1 @@
+\n\n---\n\n🔗 [patbaumgartner.com](https://patbaumgartner.com) · [More talks & projects on GitHub](https://github.com/patbaumgartner)\n
